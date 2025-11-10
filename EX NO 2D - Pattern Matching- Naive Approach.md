@@ -14,7 +14,7 @@ Output: Pattern found at index 10
 Input:  text =  "AABAACAADAABAABA", pattern = "AABA"
 Output: Pattern found at index 0, Pattern found at index 9, Pattern found at index 12
 ## Algorithm
-1.Input: Text string text and pattern string pattern.
+1. Input: Text string text and pattern string pattern.
 
 2. Compute lengths: n = text.length(), m = pattern.length().
 
