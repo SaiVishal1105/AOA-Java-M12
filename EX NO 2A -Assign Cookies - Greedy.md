@@ -65,4 +65,4 @@ public class AssignCookies {
 
 
 ## Result:
-The program successfully print all the numbers from 1 to N. 
+The program to Assign Cookies using Greedy Algorithm executed successfully . 
