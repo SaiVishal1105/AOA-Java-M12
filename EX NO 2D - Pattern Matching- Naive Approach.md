@@ -26,8 +26,8 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 
 ## Program:
 ```
-Developed by: NISHA D
-Register Number: 212223230143
+Developed by: SAI VISHAL D
+Register Number: 212223230180
 
 import java.util.Scanner;
 
